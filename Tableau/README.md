@@ -11,7 +11,7 @@ This project presents an interactive Tableau dashboard built to analyze ecommerc
 
 ## 📸 Dashboard Preview
 
-<img src="Tableau/sales_dashboard.jpg" alt="Project Screenshot">
+<img src="sales_dashboard.jpg" alt="Project Screenshot">
 
 ---
 
